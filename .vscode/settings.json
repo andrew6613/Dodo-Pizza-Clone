@@ -1,0 +1,28 @@
+{
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.printWidth": 100,
+  "emmet.triggerExpansionOnTab": true,
+
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 24,
+  "editor.wordWrap": "off",
+  "editor.renderWhitespace": "selection",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  // Если шрифт поддерживает стрелочки и т.п. знаки, то включить их (лигатуры)
+  "editor.fontLigatures": true,
+  // Тип курсора
+  "editor.cursorStyle": "line",
+  // Тип анимации курсора
+  "editor.cursorBlinking": "phase",
+  // Плавная анимация
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
